@@ -11,7 +11,7 @@ ${petId}    194214401
 ${quantity}    1
 ${shipDate}    2024-05-26T18:32:24.567Z
 ${status}    approved
-${complete}    ${True}
+${complete}    ${{boll(True)}}
 
 *** Test Cases ***
 
